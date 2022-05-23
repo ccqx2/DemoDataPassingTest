@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo Data Passing Test</string>
+    <string name="button_1">Pass Integer Value to 2nd Activity</string>
+    <string name="button_2">Pass character value to 2nd activity</string>
+    <string name="textview">TextView</string>
+    <string name="passDouble">Pass double value to 2nd activity</string>
+    />
+</resources>
